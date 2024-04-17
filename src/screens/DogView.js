@@ -1,11 +1,12 @@
 import React from "react";
 import { ScrollView, Text, StyleSheet } from "react-native";
-
+import DogCardComponent from "../components/DogCard";
 
 const DogView = () =>{
     return(
         <ScrollView>
             <Text style={styles.textoBienvenida}>Pantalla de perritos</Text>
+        <DogCardComponent/>
         </ScrollView>
 
     );

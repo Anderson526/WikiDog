@@ -1,0 +1,69 @@
+[
+          {
+            "name": "Siamés",
+            "size": "Pequeño",
+            "life_span": "12-15 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+          },
+          {
+            "name": "Maine Coon",
+            "size": "Grande",
+            "life_span": "10-13 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+          },
+          {
+            "name": "Persa",
+            "size": "Mediano",
+            "life_span": "12-15 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+          },
+          {
+            "name": "Bengalí",
+            "size": "Mediano",
+            "life_span": "12-15 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+          },
+          {
+            "name": "Sphynx",
+            "size": "Mediano",
+            "life_span": "8-14 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            
+          },
+          {
+            "name": "Ragdoll",
+            "size": "Grande",
+            "life_span": "12-17 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+          },
+          {
+            "name": "British Shorthair",
+            "size": "Mediano",
+            "life_span": "12-20 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+          },
+          {
+            "name": "Siamese",
+            "size": "Pequeño",
+            "life_span": "12-15 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+          },
+          {
+            "name": "Scottish Fold",
+            "size": "Mediano",
+            "life_span": "12-15 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+          },
+          {
+            "name": "Siberiano",
+            "size": "Grande",
+            "life_span": "12-15 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+          },
+          {
+            "name": "Munchkin",
+            "size": "Pequeño",
+            "life_span": "12-15 años",
+            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+          }   
+]

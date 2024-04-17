@@ -4,20 +4,20 @@
             "outputFile": "com.wikidog.app-mergeDebugResources-34:/values/values.xml",
             "map": [
                 {
-                    "source": "/home/ander/Documentos/ProyectosAndroid/WikiDog/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "source": "/home/ander/Documents/personal /WikiDog/android/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "6,8",
-                        "startColumns": "4,4",
-                        "startOffsets": "154,258",
-                        "endColumns": "63,68",
-                        "endOffsets": "213,322"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "44",
+                        "endOffsets": "56"
                     },
                     "to": {
-                        "startLines": "1848,1849",
-                        "startColumns": "4,4",
-                        "startOffsets": "123259,123323",
-                        "endColumns": "63,68",
-                        "endOffsets": "123318,123387"
+                        "startLines": "1885",
+                        "startColumns": "4",
+                        "startOffsets": "125905",
+                        "endColumns": "44",
+                        "endOffsets": "125945"
                     }
                 },
                 {
@@ -56,25 +56,6 @@
                         "endLines": "570,571,1657,1658,1659,1692,1693,1694,1695,1696,1697,1698,1709,1711,1731,1734,1735,1767,1768,1776,1777,1883,1893,1894,1895,1896,1897,1898,1899,1900,1901,1902,1903,1904,1905,1906,1907,1908,1909,1910,1911,1912,1913,1914,1915,1916,1917,1918,1919,1924,1932,1935,1936,1938,1976,1977,1978,2052,2053,2054,2055,2064,2065,2066,2067,2068,2069,2070,2071,2073,2074,2075,2076,2085,2089,5452,5455,5467,5471,5926,5929,6276,6323,6332,6339,6368,6371,6374,6513,6519,6522,9157",
                         "endColumns": "62,62,50,53,58,47,48,48,47,48,57,48,49,40,43,42,33,38,45,53,47,116,122,95,119,119,101,118,110,106,102,110,168,167,116,109,114,112,185,107,112,90,110,168,97,126,124,94,106,169,97,182,172,111,100,158,133,139,101,104,130,168,116,147,144,149,98,95,195,182,98,183,166,10,10,12,12,10,10,12,12,25,34,10,10,10,10,10,12,12,12,10",
                         "endOffsets": "29955,30018,112236,112290,112349,114307,114356,114405,114453,114502,114560,114609,115168,115275,116347,116486,116520,118153,118199,118599,118647,125817,127307,127403,127523,127643,127745,127864,127975,128082,128185,128296,128465,128633,128750,128860,128975,129088,129274,129382,129495,129586,129697,129866,129964,130091,130216,130311,130418,130965,131691,132181,132354,132525,137488,137647,137781,149203,149305,149410,149541,150619,150736,150884,151029,151179,151278,151374,151570,151824,151923,152107,152274,152964,153212,387404,387589,388109,388315,418976,419165,442851,445905,446443,446861,448381,448558,448737,460217,460582,460779,637292"
-                    }
-                },
-                {
-                    "source": "/home/ander/Documentos/ProyectosAndroid/WikiDog/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "267"
-                    },
-                    "to": {
-                        "startLines": "2106",
-                        "startColumns": "4",
-                        "startOffsets": "154317",
-                        "endLines": "2109",
-                        "endColumns": "12",
-                        "endOffsets": "154495"
                     }
                 },
                 {
@@ -148,6 +129,23 @@
                     }
                 },
                 {
+                    "source": "/home/ander/Documents/personal /WikiDog/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "from": {
+                        "startLines": "6,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "154,258",
+                        "endColumns": "63,68",
+                        "endOffsets": "213,322"
+                    },
+                    "to": {
+                        "startLines": "1848,1849",
+                        "startColumns": "4,4",
+                        "startOffsets": "123259,123323",
+                        "endColumns": "63,68",
+                        "endOffsets": "123318,123387"
+                    }
+                },
+                {
                     "source": "/home/ander/.gradle/caches/transforms-3/9b2c28bd5719adb7e465469e2ca76c12/transformed/jetified-flipper-0.201.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -162,6 +160,25 @@
                         "startOffsets": "114819,114888",
                         "endColumns": "68,56",
                         "endOffsets": "114883,114940"
+                    }
+                },
+                {
+                    "source": "/home/ander/Documents/personal /WikiDog/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "267"
+                    },
+                    "to": {
+                        "startLines": "2106",
+                        "startColumns": "4",
+                        "startOffsets": "154317",
+                        "endLines": "2109",
+                        "endColumns": "12",
+                        "endOffsets": "154495"
                     }
                 },
                 {
@@ -255,23 +272,6 @@
                         "startOffsets": "115002,115042,116265,116568,116623,118204,118258,118310,118359,118420",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "115037,115084,116303,116618,116665,118253,118305,118354,118415,118465"
-                    }
-                },
-                {
-                    "source": "/home/ander/Documentos/ProyectosAndroid/WikiDog/android/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "44",
-                        "endOffsets": "56"
-                    },
-                    "to": {
-                        "startLines": "1885",
-                        "startColumns": "4",
-                        "startOffsets": "125905",
-                        "endColumns": "44",
-                        "endOffsets": "125945"
                     }
                 },
                 {
