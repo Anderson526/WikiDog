@@ -3,67 +3,61 @@
             "name": "Siamés",
             "size": "Pequeño",
             "life_span": "12-15 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            "url_img": "https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462_1280.jpg"
           },
           {
             "name": "Maine Coon",
             "size": "Grande",
             "life_span": "10-13 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            "url_img": "https://cdn.pixabay.com/photo/2021/01/15/17/37/cat-5919989_1280.jpg"
           },
           {
             "name": "Persa",
             "size": "Mediano",
             "life_span": "12-15 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            "url_img": "https://cdn.pixabay.com/photo/2022/02/17/04/54/animal-7017939_1280.jpg"
           },
           {
             "name": "Bengalí",
             "size": "Mediano",
             "life_span": "12-15 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            "url_img": "https://cdn.pixabay.com/photo/2015/08/05/21/15/cat-877110_1280.jpg"
           },
           {
             "name": "Sphynx",
             "size": "Mediano",
             "life_span": "8-14 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            "url_img": "https://cdn.pixabay.com/photo/2017/10/02/09/38/nature-2808277_1280.jpg"
             
           },
           {
             "name": "Ragdoll",
             "size": "Grande",
             "life_span": "12-17 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            "url_img": "https://cdn.pixabay.com/photo/2023/07/21/16/29/ragdoll-8141985_1280.jpg"
           },
           {
             "name": "British Shorthair",
             "size": "Mediano",
             "life_span": "12-20 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
-          },
-          {
-            "name": "Siamese",
-            "size": "Pequeño",
-            "life_span": "12-15 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            "url_img": "https://cdn.pixabay.com/photo/2017/07/22/15/21/cat-2528935_1280.jpg"
           },
           {
             "name": "Scottish Fold",
             "size": "Mediano",
             "life_span": "12-15 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            "url_img": "https://cdn.pixabay.com/photo/2021/01/10/21/37/scottish-fold-5906435_1280.jpg"
           },
           {
             "name": "Siberiano",
             "size": "Grande",
             "life_span": "12-15 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            "url_img": "https://cdn.pixabay.com/photo/2017/06/26/12/12/siberian-cat-2443616_960_720.jpg"
           },
           {
             "name": "Munchkin",
             "size": "Pequeño",
             "life_span": "12-15 años",
-            "url_img": "https://reactnative.dev/docs/assets/p_cat1.png"
+            "url_img": "https://cdn.pixabay.com/photo/2022/05/17/06/40/cat-7201800_1280.jpg"
           }   
 ]

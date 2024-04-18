@@ -3,7 +3,7 @@
         "name": "Pitbull",
         "size": "Mediano",
         "life_span": "10-15 años",
-        "url_img": "require('ImgDog/pitbull.jpg')"  
+        "url_img": "https://cdn.pixabay.com/photo/2019/02/07/16/13/dog-3981540_1280.jpg"  
       
       },
      
@@ -11,55 +11,55 @@
         "name": "Pastor aleman",
         "size": "Grande",
         "life_span": "9-13 años",
-        "url_img": "require('../assets/ImgDog/pastorAleman.jpg')" 
+        "url_img": "https://cdn.pixabay.com/photo/2018/03/06/20/01/dog-3204401_1280.jpg" 
       },
       {
         "name": "Labrador Retriever",
         "size": "Grande",
         "life_span": "10-12 años",
-        "url_img": "require('../assets/ImgDog/labrador.jpg')" 
+        "url_img": "https://cdn.pixabay.com/photo/2020/11/10/15/31/dog-5730156_1280.jpg" 
       },
       {
         "name": "Bulldog",
         "size": "Mediano",
         "life_span": "8-10 años",
-        "url_img": "require('../assets/ImgDog/bulldog.jpg')" 
+        "url_img": "https://cdn.pixabay.com/photo/2014/12/10/05/50/english-bulldog-562723_1280.jpg" 
       },
       {
         "name": "Chihuahua",
         "size": "Pequeño",
         "life_span": "12-20 años",
-        "url_img": "require('../assets/ImgDog/chihuahua.jpg')" 
+        "url_img": "https://cdn.pixabay.com/photo/2016/12/28/19/50/chihuahua-1936926_1280.jpg" 
       },
       {
         "name": "Golden Retriever",
         "size": "Grande",
         "life_span": "10-12 años",
-        "url_img": "require('../assets/ImgDog/golden.jpg')" 
+        "url_img": "https://cdn.pixabay.com/photo/2018/04/12/14/51/dog-3313607_1280.jpg" 
       },
       {
         "name": "Poodle",
         "size": "Mediano",
         "life_span": "10-18 años",
-        "url_img": "require('../assets/ImgDog/poodle.jpg')" 
+        "url_img": "https://cdn.pixabay.com/photo/2022/05/03/17/43/dog-7172331_1280.jpg" 
       },
       {
         "name": "Boxer",
         "size": "Grande",
         "life_span": "10-12 años",
-        "url_img": "require('../src/assets/ImgDog/boxer.jpg')" 
+        "url_img": "https://cdn.pixabay.com/photo/2018/09/03/11/50/boxer-dog-3651031_1280.jpg" 
       },
       {
         "name": "Dachshund (Teckel)",
         "size": "Pequeño",
         "life_span": "12-16 años",
-        "url_img": "require('../assets/ImgDog/dachshund.jpg')" 
+        "url_img": "https://cdn.pixabay.com/photo/2018/06/17/17/05/dachshund-3480930_1280.jpg" 
       },
       {
         "name": "Shiba Inu",
         "size": "Mediano",
         "life_span": "12-15 años",
-        "url_img": "require('../assets/ImgDog/shibaInu.jpg')" 
+        "url_img": "https://cdn.pixabay.com/photo/2019/03/13/22/51/pet-4053938_1280.jpg" 
       }
     
 ]
