@@ -1,12 +1,22 @@
 import React from "react";
-import {View,Text,StyleSheet,Image} from "react-native";
+import {View,Text,StyleSheet,Image, TouchableOpacity} from "react-native";
 import dogCard from '../assets/DogInformation.json';
+import { useNavigation } from "@react-navigation/native";
+
 
 const DogCardComponent = () =>{
+  const navigation  = useNavigation();
+  const handleCardPress = (breed) => {
+    navigation.navigate('CompleteDetailsDog', { breed });
+  };
+
+
 return(
+
     <View style={styles.container}>
         {dogCard.map((breed,index)=>(
-            <View key={index} style={styles.breedContainer}>
+            <TouchableOpacity key={index} onPress={() => handleCardPress(breed)}>
+            <View  style={styles.breedContainer}>
                
                 <Text style={styles.text}>{breed.name}</Text>
                 <Text style={styles.text}>Tamaño del perro: {breed.size}</Text>
@@ -19,6 +29,7 @@ return(
                 />
 
             </View>
+            </TouchableOpacity>
         ))}
 
 
