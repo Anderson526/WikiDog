@@ -19,13 +19,12 @@ return(
             <View  style={styles.breedContainer}>
               
                 <Text style={styles.text}>{breed.name}</Text>
-                <Text style={styles.text}>Tamaño del perro: {breed.size}</Text>
-                <Text style={styles.text}>Esperanza de vida: {breed.life_span}</Text>
+             
                 <Image
                 source={{
                 uri: breed.url_img, 
                 }}
-                style={{ width: 200, height: 200 }}
+                style={{ width: 300, height: 200 }}
                 />
 
             </View>
@@ -48,11 +47,12 @@ const styles = StyleSheet.create({
       breedContainer: {
         marginBottom: 20,
         padding: 10,
-        backgroundColor: '#f0f0f0',
+        backgroundColor: '#dae2f0',
         borderRadius: 5,
       },
       text: {
-        color: '#000000'
+        color: '#000000',
+        fontSize: 24,
       }
 
 
