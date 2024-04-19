@@ -1,0 +1,7 @@
+#Fri Apr 19 15:30:58 COT 2024
+base.0=/home/ander/Documents/personal /WikiDog/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.1=/home/ander/Documents/personal /WikiDog/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
