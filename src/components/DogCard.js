@@ -17,7 +17,7 @@ return(
         {dogCard.map((breed,index)=>(
             <TouchableOpacity key={index} onPress={() => handleCardPress(breed)}>
             <View  style={styles.breedContainer}>
-               
+              
                 <Text style={styles.text}>{breed.name}</Text>
                 <Text style={styles.text}>Tamaño del perro: {breed.size}</Text>
                 <Text style={styles.text}>Esperanza de vida: {breed.life_span}</Text>

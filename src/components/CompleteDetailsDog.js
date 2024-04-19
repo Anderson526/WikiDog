@@ -14,7 +14,7 @@ const DogDetailsScreen = ({ route }) => {
           source={{ uri: breed.url_img }}
           style={{ width: 200, height: 200 }}
         />
-        {/* Aquí puedes agregar más detalles del perro si los tienes en tu JSON */}
+      
       </View>
     </View>
   );

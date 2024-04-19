@@ -1,6 +1,6 @@
 //importacion de librerias para la vista
 import React ,{useEffect}  from "react";
-import { View, Text, StyleSheet } from "react-native";
+import { View, Text, StyleSheet,Image } from "react-native";
 
 
 const SplashScreen = ({navigation}) => {
@@ -8,9 +8,9 @@ const SplashScreen = ({navigation}) => {
 
 
 useEffect(()=>{
-setTimeout(() => {
-    navigation.navigate('DogView');
-},1000);
+const timer= setTimeout(() => {
+    navigation.navigate('PetTabs');
+},2000);
 
 return () => clearTimeout(timer);
 
@@ -19,7 +19,10 @@ return () => clearTimeout(timer);
  
     return(
         <View style={styles.container}>
-            <Text style={styles.textoBienvenida}>¡Bienvenido.!</Text>
+            <Text style={styles.textoBienvenida}>¡Bienvenido a una Wiki de ternura.!</Text>
+            <Image
+            source={require('../assets/icons/IconSplashScreen.png')}
+            />
         </View>
     );
 };
