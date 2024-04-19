@@ -3,7 +3,8 @@
         "name": "Pitbull",
         "size": "Mediano",
         "life_span": "10-15 años",
-        "url_img": "https://cdn.pixabay.com/photo/2019/02/07/16/13/dog-3981540_1280.jpg"  
+        "url_img": "https://cdn.pixabay.com/photo/2019/02/07/16/13/dog-3981540_1280.jpg",
+        "description" :"El Pitbull es un término genérico que se usa comúnmente para describir varias razas de perros, incluyendo el American Pit Bull Terrier, American Staffordshire Terrier y Staffordshire Bull Terrier, entre otros. Estos perros son conocidos por su musculatura robusta, mandíbulas fuertes y apariencia atlética. Tienen una cabeza ancha y un cuerpo bien proporcionado. Su pelaje es corto y puede venir en una variedad de colores, como blanco, negro, atigrado, o una combinación de estos."
       
       },
      
@@ -11,55 +12,64 @@
         "name": "Pastor aleman",
         "size": "Grande",
         "life_span": "9-13 años",
-        "url_img": "https://cdn.pixabay.com/photo/2018/03/06/20/01/dog-3204401_1280.jpg" 
+        "url_img": "https://cdn.pixabay.com/photo/2018/03/06/20/01/dog-3204401_1280.jpg",
+        "description" :" El Pastor Alemán es un perro de tamaño mediano a grande, conocido por su apariencia noble y su pelaje denso de doble capa, que puede ser de varios colores, aunque el más común es el negro y marrón. Es reconocido por su inteligencia excepcional, lealtad inquebrantable y habilidades de trabajo sobresalientes. Esta raza es altamente versátil y se desempeña de manera ejemplar en una variedad de roles, desde el pastoreo hasta el trabajo policial, el rescate y la terapia. Es un compañero fiel y devoto, que establece vínculos fuertes con su familia humana y está siempre dispuesto a protegerlos y cuidarlos. Requiere ejercicio regular y estimulación mental para mantenerse feliz y equilibrado."
       },
       {
         "name": "Labrador Retriever",
         "size": "Grande",
         "life_span": "10-12 años",
-        "url_img": "https://cdn.pixabay.com/photo/2020/11/10/15/31/dog-5730156_1280.jpg" 
+        "url_img": "https://cdn.pixabay.com/photo/2020/11/10/15/31/dog-5730156_1280.jpg" ,
+        "description" :"El Labrador Retriever es un perro de tamaño mediano a grande, conocido por su naturaleza amigable, inteligencia y disposición cariñosa. Tiene una constitución atlética y un pelaje corto y denso que puede ser de color negro, amarillo o chocolate. Es una de las razas más populares debido a su versatilidad y temperamento equilibrado. Los Labradores son excelentes compañeros familiares, así como perros de trabajo en roles como perros guía para ciegos, perros de terapia y en actividades de rescate. Son altamente sociables y les encanta interactuar con humanos y otros animales. Requieren ejercicio regular y estímulo mental para mantenerse felices y saludables."
       },
       {
         "name": "Bulldog",
         "size": "Mediano",
         "life_span": "8-10 años",
-        "url_img": "https://cdn.pixabay.com/photo/2014/12/10/05/50/english-bulldog-562723_1280.jpg" 
+        "url_img": "https://cdn.pixabay.com/photo/2014/12/10/05/50/english-bulldog-562723_1280.jpg",
+        "description" :"El Bulldog es un perro de tamaño mediano, compacto y musculoso, conocido por su cabeza grande y arrugada, así como por su mandíbula prominente y mandíbulas fuertes. Tiene un cuerpo robusto y un pelaje corto y suave que puede ser de varios colores, como blanco, atigrado, o rojo. A pesar de su apariencia formidable, el Bulldog es cariñoso, dulce y afectuoso, especialmente con su familia humana. Tiende a ser tranquilo y algo perezoso, pero también puede ser obstinado. Es una raza que requiere moderado ejercicio y cuidado con climas extremadamente calurosos debido a su tendencia a sobrecalentarse." 
       },
       {
         "name": "Chihuahua",
         "size": "Pequeño",
         "life_span": "12-20 años",
-        "url_img": "https://cdn.pixabay.com/photo/2016/12/28/19/50/chihuahua-1936926_1280.jpg" 
+        "url_img": "https://cdn.pixabay.com/photo/2016/12/28/19/50/chihuahua-1936926_1280.jpg" ,
+        "description" :"El Chihuahua es la raza de perro más pequeña del mundo, con un cuerpo compacto y delicado. Su cabeza es de forma redondeada y cuenta con orejas grandes y erectas. Su pelaje puede ser corto o largo, y viene en una variedad de colores y patrones. A pesar de su diminuto tamaño, el Chihuahua es valiente, alerta y lleno de energía. Tiende a formar vínculos estrechos con su dueño y puede ser protector y territorial. Son excelentes compañeros para hogares pequeños o personas solteras debido a su tamaño y bajo requerimiento de ejercicio. Sin embargo, también necesitan socialización temprana y entrenamiento adecuado para manejar su naturaleza a menudo testaruda."
       },
       {
         "name": "Golden Retriever",
         "size": "Grande",
         "life_span": "10-12 años",
-        "url_img": "https://cdn.pixabay.com/photo/2018/04/12/14/51/dog-3313607_1280.jpg" 
+        "url_img": "https://cdn.pixabay.com/photo/2018/04/12/14/51/dog-3313607_1280.jpg" ,
+        "description" :"El Golden Retriever es un perro de tamaño mediano a grande, conocido por su pelaje dorado y su expresión amigable y gentil. Tienen una constitución robusta y atlética, con una cola larga y peluda que se mueve constantemente con alegría. Su pelaje es denso y repelente al agua, lo que los hace excelentes nadadores y compañeros para actividades al aire libre. Los Golden Retrievers son conocidos por su inteligencia, amabilidad y disposición para complacer a sus dueños. Son perros extremadamente sociables y se llevan bien con niños, otros perros y mascotas. Son ideales como compañeros familiares y en roles de terapia y rescate debido a su naturaleza compasiva y calmada. Requieren ejercicio regular y atención para mantener su bienestar físico y emocional."
       },
       {
         "name": "Poodle",
         "size": "Mediano",
         "life_span": "10-18 años",
-        "url_img": "https://cdn.pixabay.com/photo/2022/05/03/17/43/dog-7172331_1280.jpg" 
+        "url_img": "https://cdn.pixabay.com/photo/2022/05/03/17/43/dog-7172331_1280.jpg" ,
+        "description" :"El Poodle es una raza de perro elegante y atlética, conocida por su distintivo pelaje rizado y su apariencia refinada. Vienen en tres tamaños: estándar, miniatura y toy. Tienen una cabeza proporcionada, orejas largas y colgantes, y una cola de forma característica que se lleva en alto. Su pelaje denso y rizado puede ser de varios colores, como blanco, negro, gris, o apricot. Los Poodles son altamente inteligentes, obedientes y versátiles, lo que los convierte en excelentes perros de compañía, perros de trabajo y competidores en deportes caninos. Son conocidos por ser hipoalergénicos y arrojar poco pelo, lo que los hace populares entre las personas con alergias. Requieren cuidado regular del pelaje y ejercicio adecuado para mantener su salud y bienestar."
       },
       {
         "name": "Boxer",
         "size": "Grande",
         "life_span": "10-12 años",
-        "url_img": "https://cdn.pixabay.com/photo/2018/09/03/11/50/boxer-dog-3651031_1280.jpg" 
+        "url_img": "https://cdn.pixabay.com/photo/2018/09/03/11/50/boxer-dog-3651031_1280.jpg" ,
+        "description" :"El Boxer es un perro de tamaño mediano a grande, conocido por su físico musculoso y su expresión alerta y enérgica. Tienen una cabeza distintiva con mandíbulas fuertes y una mandíbula subdesarrollada que les da una apariencia única. Su pelaje es corto y denso, y puede ser de varios colores, como leonado, atigrado o blanco. Los Boxers son perros activos, juguetones y amigables, que tienen una personalidad cariñosa y leal hacia su familia humana. Son conocidos por su gran inteligencia y su capacidad para aprender rápido, lo que los hace excelentes compañeros de entrenamiento. También son protectores por naturaleza y pueden ser guardianes dedicados de su hogar y su familia. Requieren ejercicio regular y estimulación mental para mantenerse felices y saludables."
       },
       {
         "name": "Dachshund (Teckel)",
         "size": "Pequeño",
         "life_span": "12-16 años",
-        "url_img": "https://cdn.pixabay.com/photo/2018/06/17/17/05/dachshund-3480930_1280.jpg" 
+        "url_img": "https://cdn.pixabay.com/photo/2018/06/17/17/05/dachshund-3480930_1280.jpg" ,
+        "description" :"El Dachshund, también conocido como perro salchicha o teckel, es una raza de perro de tamaño pequeño a mediano con un cuerpo alargado y patas cortas. Tienen una cabeza larga y orejas caídas, y su pelaje puede ser de tres variedades: pelo corto, pelo largo o pelo duro. Los colores más comunes son rojo, negro y fuego, y arlequín. Son conocidos por su personalidad valiente, curiosa y alegre. Los Dachshunds son perros inteligentes y leales, pero también pueden ser obstinados y tercos en ocasiones. Son excelentes cazadores de madrigueras y aún conservan ese instinto, lo que a veces puede llevarlos a seguir rastros o excavar. Son buenos compañeros de familia y disfrutan pasar tiempo con sus seres queridos, aunque pueden ser reservados con extraños. Requieren ejercicio moderado y cuidado con su espalda larga para mantener una buena salud."
       },
       {
         "name": "Shiba Inu",
         "size": "Mediano",
         "life_span": "12-15 años",
-        "url_img": "https://cdn.pixabay.com/photo/2019/03/13/22/51/pet-4053938_1280.jpg" 
+        "url_img": "https://cdn.pixabay.com/photo/2019/03/13/22/51/pet-4053938_1280.jpg" ,
+        "description" :"El Shiba Inu es una raza de perro de origen japonés, conocida por su aspecto majestuoso, su pelaje espeso y su personalidad vivaz. Tienen una cabeza ancha y triangular con orejas erguidas y una cola enrollada sobre su espalda. Su pelaje es denso y puede ser rojo, sésamo, negro y sésamo o crema. Los Shiba Inus son perros valientes, alertas y con un fuerte sentido de independencia. Son conocidos por ser limpios y tener un comportamiento similar al de los gatos, ya que se acicalan y son meticulosos con su higiene. A pesar de su tamaño pequeño a mediano, son enérgicos y atléticos, disfrutando de actividades al aire libre. Tienen una naturaleza reservada con extraños, pero son leales y cariñosos con su familia. Requieren socialización temprana y entrenamiento consistente para canalizar su inteligencia y energía de manera positiva."
       }
     
 ]

@@ -3,61 +3,72 @@
             "name": "Siamés",
             "size": "Pequeño",
             "life_span": "12-15 años",
-            "url_img": "https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462_1280.jpg"
+            "url_img": "https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462_1280.jpg",
+            "description" :"El Siamés es una raza de gato conocida por su elegancia, porte refinado y su pelaje corto y sedoso. Tienen un cuerpo esbelto y musculoso, con patas largas y una cola larga y delgada. Sus rasgos distintivos incluyen una cabeza triangular con orejas grandes y puntiagudas, así como unos ojos azules intensos y expresivos. El pelaje del Siamés puede tener diferentes variaciones de color, incluyendo seal point, blue point, chocolate point y lilac point. Son gatos activos, curiosos y vocalizadores, que disfrutan de la interacción con sus dueños. Son conocidos por su personalidad extrovertida y su apego a sus seres queridos. Requieren estimulación mental y socialización adecuada para mantenerse felices y saludables."
+          
           },
           {
             "name": "Maine Coon",
             "size": "Grande",
             "life_span": "10-13 años",
-            "url_img": "https://cdn.pixabay.com/photo/2021/01/15/17/37/cat-5919989_1280.jpg"
+            "url_img": "https://cdn.pixabay.com/photo/2021/01/15/17/37/cat-5919989_1280.jpg",
+            "description" :"El Maine Coon es una de las razas de gatos más grandes y populares, conocido por su pelaje largo y espeso, así como por su apariencia majestuosa y su personalidad amigable. Tienen un cuerpo musculoso y bien proporcionado, con patas largas y una cola larga y peluda que pueden envolver alrededor de su cuerpo para mantenerse calientes. Su cabeza es grande y tiene orejas puntiagudas con mechones de pelo en su interior. El pelaje del Maine Coon puede ser de varios colores y patrones. Son gatos inteligentes, cariñosos y sociables, que suelen llevarse bien con niños y otras mascotas. A menudo son descritos como gatos perro debido a su naturaleza juguetona y su capacidad para aprender trucos. Requieren cepillado regular y espacio para ejercitarse y explorar para mantenerse felices y saludables."
           },
           {
             "name": "Persa",
             "size": "Mediano",
             "life_span": "12-15 años",
-            "url_img": "https://cdn.pixabay.com/photo/2022/02/17/04/54/animal-7017939_1280.jpg"
+            "url_img": "https://cdn.pixabay.com/photo/2022/02/17/04/54/animal-7017939_1280.jpg",
+            "description" :"El Persa es una raza de gato conocida por su elegancia y belleza distintiva, caracterizada por su pelaje largo y sedoso, su cuerpo robusto y suave, y su cara plana y redondeada. Tienen orejas pequeñas y redondeadas, así como ojos grandes y expresivos. El pelaje del Persa puede venir en una amplia variedad de colores y patrones. Son gatos tranquilos, dóciles y cariñosos que disfrutan de la calma y la atención de sus dueños. Les gusta la rutina y prefieren entornos tranquilos y predecibles. Debido a su pelaje largo, requieren un cuidado regular del pelaje para evitar enredos y problemas de salud de la piel. Son ideales como mascotas para hogares tranquilos y serán compañeros leales y afectuosos."
           },
           {
             "name": "Bengalí",
             "size": "Mediano",
             "life_span": "12-15 años",
-            "url_img": "https://cdn.pixabay.com/photo/2015/08/05/21/15/cat-877110_1280.jpg"
+            "url_img": "https://cdn.pixabay.com/photo/2015/08/05/21/15/cat-877110_1280.jpg",
+            "description" :"El Bengalí es una raza de gato exótico conocida por su aspecto salvaje y su pelaje lujoso y con manchas. Originario del cruce entre gatos domésticos y el leopardo asiático, el Bengalí tiene un cuerpo musculoso y esbelto, con patas largas y una cola larga y gruesa. Su pelaje corto y suave puede tener un patrón de manchas o rosetas similares a los felinos salvajes. Los colores comunes incluyen el dorado, el naranja y el marrón, con un fondo más claro y manchas más oscuras. Son gatos activos, juguetones y curiosos que disfrutan de la interacción con sus dueños. A menudo son descritos como gatos perro debido a su amor por el agua y su capacidad para jugar a buscar y recuperar objetos. Requieren estimulación mental y ejercicio regular para mantenerse felices y saludables."
           },
           {
             "name": "Sphynx",
             "size": "Mediano",
             "life_span": "8-14 años",
-            "url_img": "https://cdn.pixabay.com/photo/2017/10/02/09/38/nature-2808277_1280.jpg"
+            "url_img": "https://cdn.pixabay.com/photo/2017/10/02/09/38/nature-2808277_1280.jpg",
+            "description" :"El Sphynx es una raza de gato sin pelo, conocida por su aspecto distintivo y su piel suave y arrugada. Aunque parezca desnudo, en realidad tiene una capa de vello muy fina que puede ser casi imperceptible al tacto. Tienen una cabeza angular con grandes orejas y ojos expresivos, y un cuerpo musculoso y esbelto. Los colores de la piel del Sphynx pueden variar y pueden tener manchas o patrones diferentes. Son gatos sociables, cariñosos y juguetones que disfrutan de la compañía de sus dueños. Son muy activos y necesitan ejercicio regular para mantenerse saludables. Debido a la falta de pelo, requieren cuidados especiales para proteger su piel de la exposición al sol y del frío."
             
           },
           {
             "name": "Ragdoll",
             "size": "Grande",
             "life_span": "12-17 años",
-            "url_img": "https://cdn.pixabay.com/photo/2023/07/21/16/29/ragdoll-8141985_1280.jpg"
+            "url_img": "https://cdn.pixabay.com/photo/2023/07/21/16/29/ragdoll-8141985_1280.jpg",
+            "description" :" El Ragdoll es una raza de gato de tamaño grande y pelaje semilargo, conocida por su naturaleza tranquila y suave, así como por sus ojos azules penetrantes. Tienen un cuerpo robusto y musculoso, con patas largas y una cola larga y peluda. Su pelaje es suave y sedoso, con colores y patrones distintivos, como puntos de color más oscuro en las extremidades, cola y orejas. Los Ragdolls son gatos cariñosos, tranquilos y dóciles que suelen ser conocidos como gatos de trapo debido a su tendencia a relajarse y volverse flojos cuando son sostenidos. Son compañeros leales y afectuosos que disfrutan de la compañía humana y se llevan bien con niños y otras mascotas. Requieren cuidados regulares del pelaje y el afecto humano para mantener su bienestar emocional."
           },
           {
             "name": "British Shorthair",
             "size": "Mediano",
             "life_span": "12-20 años",
-            "url_img": "https://cdn.pixabay.com/photo/2017/07/22/15/21/cat-2528935_1280.jpg"
+            "url_img": "https://cdn.pixabay.com/photo/2017/07/22/15/21/cat-2528935_1280.jpg",
+            "description" :" El British Shorthair es una raza de gato de tamaño mediano a grande, conocida por su aspecto robusto y su pelaje corto y denso. Tienen una cabeza redonda con mejillas llenas, orejas pequeñas y redondeadas, y ojos grandes y redondos que pueden ser de color cobre, naranja o azul. El pelaje del British Shorthair viene en una variedad de colores sólidos, como azul, negro, crema y gris. Son gatos tranquilos, equilibrados y de naturaleza independiente, que disfrutan de la calma y la estabilidad. Son afectuosos y leales con sus familias, pero pueden ser reservados con extraños. Son buenos compañeros para hogares tranquilos y se adaptan bien a la vida en interiores. Requieren cuidado regular del pelaje y ejercicio moderado para mantenerse saludables y felices."
           },
           {
             "name": "Scottish Fold",
             "size": "Mediano",
             "life_span": "12-15 años",
-            "url_img": "https://cdn.pixabay.com/photo/2021/01/10/21/37/scottish-fold-5906435_1280.jpg"
+            "url_img": "https://cdn.pixabay.com/photo/2021/01/10/21/37/scottish-fold-5906435_1280.jpg",
+            "description" :"El Scottish Fold es una raza de gato conocida por sus orejas dobladas hacia adelante y hacia abajo, lo que les da una apariencia única y adorable. Tienen cabezas redondeadas, ojos grandes y redondos y cuerpos compactos y musculosos. Su pelaje puede ser corto o semilargo y viene en una variedad de colores y patrones. Aunque sus orejas plegadas son su rasgo más distintivo, no todos los gatos Scottish Fold nacen con esta característica, ya que es el resultado de una mutación genética. Son gatos dulces, cariñosos y tranquilos que disfrutan de la compañía humana y se llevan bien con niños y otras mascotas. Son conocidos por su naturaleza juguetona y curiosa, pero también aprecian su tiempo de tranquilidad y relajación. Requieren cuidado regular del pelaje y atención a la salud de sus orejas debido a su estructura única."
           },
           {
             "name": "Siberiano",
             "size": "Grande",
             "life_span": "12-15 años",
-            "url_img": "https://cdn.pixabay.com/photo/2017/06/26/12/12/siberian-cat-2443616_960_720.jpg"
+            "url_img": "https://cdn.pixabay.com/photo/2017/06/26/12/12/siberian-cat-2443616_960_720.jpg",
+            "description" :"El Siberiano es una raza de gato de tamaño mediano a grande, conocida por su pelaje grueso y esponjoso que los protege del frío. Tienen cuerpos musculosos y robustos, con patas fuertes y una cola peluda y larga. Sus cabezas son redondeadas con orejas puntiagudas y ojos grandes y expresivos. El pelaje del Siberiano puede venir en una variedad de colores y patrones. Son gatos cariñosos, amigables y juguetones que disfrutan de la compañía humana y se llevan bien con niños y otras mascotas. Son conocidos por su personalidad tranquila y adaptable, lo que los hace ideales para hogares activos o tranquilos. Aunque tienen un pelaje largo y denso, requieren menos cuidado que otras razas de pelo largo y son considerados hipoalergénicos por algunos, ya que producen menos alérgenos que otras razas de gatos."
           },
           {
             "name": "Munchkin",
             "size": "Pequeño",
             "life_span": "12-15 años",
-            "url_img": "https://cdn.pixabay.com/photo/2022/05/17/06/40/cat-7201800_1280.jpg"
+            "url_img": "https://cdn.pixabay.com/photo/2022/05/17/06/40/cat-7201800_1280.jpg",
+            "description" :"El Munchkin es una raza de gato caracterizada por sus patas cortas y su cuerpo pequeño y compacto. Tienen una cabeza redonda con orejas grandes y ojos expresivos. A pesar de su apariencia única, los Munchkin son ágiles y activos, capaces de moverse y jugar con facilidad a pesar de sus patas cortas. Su pelaje puede ser corto o semilargo y viene en una variedad de colores y patrones. Son gatos juguetones, curiosos y afectuosos que disfrutan de la interacción con sus dueños. Se llevan bien con niños y otras mascotas y son conocidos por su naturaleza amigable y adaptable. Requieren ejercicio regular y estimulación mental para mantenerse felices y saludables."
           }   
 ]

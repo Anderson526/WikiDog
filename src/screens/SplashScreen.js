@@ -23,6 +23,7 @@ return () => clearTimeout(timer);
             <Image
             source={require('../assets/icons/IconSplashScreen.png')}
             />
+            <Text style={{color:'black', textAlignVertical:'bottom'}}>Desarrollado por: Anderson Chila</Text>
         </View>
     );
 };
@@ -37,8 +38,9 @@ const styles = StyleSheet.create({
 
     },
     textoBienvenida:{
-        fontSize: 24,
+        fontSize: 34,
         fontWeight:'bold',
+        textAlign:'center',
         color: '#000000',
     },
 });

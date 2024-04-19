@@ -5,7 +5,7 @@ import CatCardComponent from "../components/CatCard";
 const CatView = () =>{
     return(
         <ScrollView>
-            <Text style={styles.textoBienvenida}>Pantalla de gaticos</Text>
+            <Text style={styles.textoBienvenida}>Lista De Gaticos</Text>
             <CatCardComponent/>
         </ScrollView>
     );   
@@ -21,9 +21,13 @@ const styles = StyleSheet.create({
   
     },
     textoBienvenida:{
-        fontSize: 24,
+        marginTop:20,
+        marginBottom:20,
+        textAlign:'center',
+        color:'purple',
+        fontSize: 34,
         fontWeight:'bold',
-        color: '#000000',
+       
     },
   });
 
